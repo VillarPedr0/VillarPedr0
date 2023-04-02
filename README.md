@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Pedro Villar and I'm a computer science student.</h2>
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/3osxYoufeOGOA7xiX6/giphy.gif"  />
 
@@ -42,11 +44,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VillarPedr0/VillarPedr0/blob/output/snake.svg" alt="Snake animation" />
 
 ###
