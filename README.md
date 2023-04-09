@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Pedro Villar and I'm a computer science student.</h2>
-
-###
+<h2 align="left">Hi 👋! My name is Pedro Villar</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=and+I'm+a+Computer+Science+student." alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VillarPedr0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
